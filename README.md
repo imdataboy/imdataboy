@@ -5,7 +5,7 @@
 
 I build **AI-powered applications and data-driven systems**, from retrieval-augmented generation (RAG) and multi-agent workflows to data analysis and automation. I enjoy turning research ideas into reproducible software that solves practical problems.
 
-I'm pursuing a **PhD focused on causal AI for assessing the impact of monetary policy in Morocco**, with research interests in causal inference, machine learning, and economic and financial data.
+I'm pursuing a **PhD focused on causal AI**, with research interests in causal inference, machine learning, and economic and financial data.
 
 ### 🔍 What I work on
 

@@ -72,7 +72,7 @@ My doctoral research investigates how **causal machine learning** can help asses
 I'm interested in opportunities involving **AI engineering, data science, applied machine learning, and data-driven software solutions**, including collaborative research and open-source projects.
 
 - 💻 **GitHub:** [github.com/imdataboy](https://github.com/imdataboy)
-- 💬 **LinkedIn:** Add your LinkedIn profile URL here
+- 💬 **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/ilyas-sacha-6880a6413/)
 
 ---
 
